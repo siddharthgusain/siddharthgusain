@@ -4,8 +4,7 @@
 
 ## I'm a B.Tech graduate!
 - 🌱 I'm a full-stack Web developer and a tech enthusiast who is passionate about learning and exploring new technologies to build products using them.😄.
-- 🥅 I have worked on various mern stack projects and also I did an internship as a react developer with young engine.
-- ⚡ I am looking forward to being a part of an organization where I can grow in terms of knowledge, skills, and attitude as well. With the experience and skills I have, I am willing to give my best to the organization so that it can grow further.
+- 🥅 I have worked on various mern stack projects and also I did an internship as a react developer with young engine. I am currently working in WinZO.
 ## 📫 How to reach me: 
 ### 📧 Gmail: siddharthgusain26011999@gmail.com
 ### 📩 LinkedIn: https://www.linkedin.com/in/siddharth-gusain/
