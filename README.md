@@ -1,7 +1,4 @@
 ### Hi there , I'm Siddharth👋
-![Hey](https://media.giphy.com/media/KwwfncWUy8xO/giphy.gif)
-
-
 ## I'm a B.Tech graduate!
 - 🌱 I'm a full-stack Web developer and a tech enthusiast who is passionate about learning and exploring new technologies to build products using them.😄.
 - 🥅 I have worked on various mern stack projects and also I did an internship as a react developer with young engine. I am currently working as SDE at WinZO .
