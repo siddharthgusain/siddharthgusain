@@ -1,7 +1,11 @@
 ### Hi there , I'm Siddharth👋
 ## I'm a B.Tech graduate!
 - 🌱 I'm a full-stack Web developer and a tech enthusiast who is passionate about learning and exploring new technologies to build products using them.😄.
-- 🥅 I have worked on various mern stack projects and also I did an internship as a react developer with young engine. I am currently working as SDE at WinZO .
+- 🥅 I have worked on various mern stack projects and also I did an internship as a react developer with young engine. 
+- I have about 1+ year of experience working as SDE at WinZO where I worked on React , Nextjs, Express, MongoDB, Styled components, Material UI , Bootstrap.
+- I have good grasp over Computer system fundamentals like Operating systems, Computer networks, Computer architecture and Database Management System.
+- I have solid understanding of Object oriented Concepts.
+- I am open to learning new technologies to build products that can scale and impact millions.
 ## 📫 How to reach me: 
 ### 📧 Gmail: siddharthgusain26011999@gmail.com
 ### 📩 LinkedIn: https://www.linkedin.com/in/siddharth-gusain/
