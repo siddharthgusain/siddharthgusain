@@ -4,7 +4,7 @@
 - 🥅 I have worked on various mern stack projects and also I did an internship as a react developer with young engine. 
 - I have about 1+ year of experience working as SDE at WinZO where I worked on React , Nextjs, Express, MongoDB, Styled components, Material UI , Bootstrap.
 - I have good grasp over Computer system fundamentals like Operating systems, Computer networks, Computer architecture and Database Management System.
-- I have solid understanding of Object oriented Concepts.
+- I have solid understanding of Object oriented Programming Concepts.
 - I am open to learning new technologies to build products that can scale and impact millions.
 ## 📫 How to reach me: 
 ### 📧 Gmail: siddharthgusain26011999@gmail.com
