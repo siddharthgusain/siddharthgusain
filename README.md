@@ -2,7 +2,7 @@
 ## I'm a B.Tech graduate!
 - 🌱 I'm a full-stack Web developer and a tech enthusiast who is passionate about learning and exploring new technologies to build products using them.😄.
 - 🥅 I have worked on various mern stack projects and also I did an internship as a react developer with young engine. 
-- I have about 1.5+ YOE. Currently working as SDE - 1 at "Jio Fynd". Previously worked with WinZO and Young Engine.
+- I have about 1.5+ YOE. Currently working as SDE - 1 at "Jio Fynd". Previously worked with "WinZO" and "Young Engine".
 - I have good grasp over Computer system fundamentals like Operating systems, Computer networks, Computer architecture and Database Management System.
 - I have solid understanding of Object oriented Programming Concepts.
 - I am open to learning new technologies to build products that can scale and impact millions.
