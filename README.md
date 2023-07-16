@@ -1,7 +1,7 @@
 ### Hi there , I'm Siddharth👋
 ## I'm a B.Tech graduate!
 - 🌱 I'm a full-stack developer with specialization in MERN/MEVN stack and a tech enthusiast who is passionate about learning and exploring new technologies to build products using them.😄.
-- 🌱 I have about 2+ YOE. Currently working as SDE - 1 at "Jio Fynd". Previously worked with "WinZO" and "Young Engine".
+- 🌱 I have about 2+ YOE. Currently working as SDE - 1 at "Jio Fynd". Previously worked with "WinZO".
 - 🌱 I have good grasp over Computer system fundamentals like Operating systems, Computer networks, Computer architecture and Database Management System.
 - 🌱 I have solid understanding of Object oriented Programming Concepts and Design Principles/Patterns.
 - 🌱 I am open to learning new technologies to build products that can scale and impact millions.
