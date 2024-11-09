@@ -1,33 +1,39 @@
-### Hi there , I'm Siddharth👋
-## I'm a B.Tech graduate!
-- 🌱 I'm a full-stack developer with specialization in MERN/MEVN stack and a tech enthusiast who is passionate about learning and exploring new technologies to build products using them.😄.
-- 🌱 I have about 2+ YOE. Currently working as SDE - 1 at "Jio Fynd". Previously worked with "WinZO".
-- 🌱 I have good grasp over Computer system fundamentals like Operating systems, Computer networks, Computer architecture and Database Management System.
-- 🌱 I have solid understanding of Object oriented Programming Concepts and Design Principles/Patterns.
-- 🌱 I am open to learning new technologies to build products that can scale and impact millions.
-## 📫 How to reach me: 
-### 📧 Gmail: siddharthgusain26011999@gmail.com
-### 📩 LinkedIn: https://www.linkedin.com/in/siddharth-gusain/
+# Hi there, I'm Siddharth! 👋
+**B.Tech Graduate | Full-Stack Developer | Tech Enthusiast**
 
+---
 
-### Languages and Tools:
+- 💻 **Full-Stack Developer** specializing in **MERN/MEVN** stack with a passion for creating impactful products.
+- 🧠 Solid foundation in **Operating Systems, Computer Networks, Architecture**, and **Database Management Systems**.
+- 🚀 Strong grasp of **OOP Concepts** and **Design Principles/Patterns**.
+- 👨‍💼 **SDE-1 at Jio Fynd** | Previously at **WinZO** | **3+ YOE**.
+- 🌟 Received **Fynd Stars Award** for delivering high-quality, end-to-end products.
+- 🌱 Always exploring new technologies to build scalable solutions that reach millions.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="React" width="29px" src="https://img.icons8.com/officel/16/000000/react.png"/>
-<img align="left" alt="javscript" width="29px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="CPP" width="29px" src="https://img.icons8.com/ios-filled/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="C" width="29px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+---
 
-<br />
+## 📫 Connect with Me:
+- **Gmail:** [siddharthgusain.workmail@gmail.com](mailto:siddharthgusain.workmail@gmail.com)
+- **LinkedIn:** [linkedin.com/in/siddharth-gusain](https://www.linkedin.com/in/siddharth-gusain/)
 
-<br/>
+---
 
+### ⚙️ Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthgusain&exclude_repo=Smart-city)](https://github.com/siddharthgusain/github-readme-stats)
+![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
 
+---
+
+### 📊 GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthgusain&exclude_repo=Smart-city&layout=compact)
