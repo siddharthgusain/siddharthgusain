@@ -21,22 +21,25 @@ I'm Siddharth, a **Software Engineer** with over **3 years of industry experienc
 - **Familiar:** C++  
 
 ### **Frontend Development**  
-- **Frameworks & Libraries:** React.js, Redux, Next.js, Vue.js  
-- **Core Technologies:** HTML, CSS  
+- HTML, CSS, React.js, Webpack, Redux, Vue.js, Next.js  
 
 ### **Backend Development**  
-- Node.js, Express.js, Kafka  
+- Node.js, Express.js, Bull.js, Kafka, REST API  
 
 ### **Databases**  
-- MySQL, PostgreSQL, MongoDB, Redis  
+- MongoDB, Redis, PostgreSQL  
 
-### **DevOps & Tools**  
-- Git, GitHub, GitLab  
-- Docker, Kubernetes  
-- AWS  
+### **Tools & Monitoring**  
+- Kubernetes, Docker, Git, GitHub  
+- Jest, Grafana, Coralogix, Sentry, New Relic  
 
-### **Operating Systems**  
-- Windows, Ubuntu, macOS  
+### **Core Coursework**  
+- Data Structures and Algorithms  
+- Object-Oriented Programming  
+- Operating Systems  
+- Computer Networks  
+- Database Management Systems  
+- Software Design and Architecture  
 
 ---
 
