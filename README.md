@@ -45,8 +45,8 @@ I'm Siddharth, a **Software Engineer** with over **3 years of industry experienc
 
 ## 📈 **GitHub Stats**
 
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=radical)  
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharthgusain&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthgusain&layout=compact&theme=radical)  
 
 ---
 
