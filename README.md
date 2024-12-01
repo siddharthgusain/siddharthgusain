@@ -51,8 +51,8 @@ I'm Siddharth, a **Software Engineer** with over **3 years of industry experienc
 ---
 
 ## 📫 **Let's Connect!**  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/<your-linkedin-username>)  
-- **Portfolio:** [Your Portfolio](#) *(Add link if available)*  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/siddharth-gusain/>)  
+- **Portfolio:** [https://siddharthgusain.github.io/portfolio/](#) 
 
 ---
 
