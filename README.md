@@ -1,39 +1,56 @@
-# Hi there, I'm Siddharth! 👋
-**B.Tech Graduate | Full-Stack Developer | Tech Enthusiast**
+# 👨‍💻 Siddharth | Professional Software Engineer  
+
+### Welcome to My GitHub! 🚀  
+
+I'm Siddharth, a **Software Engineer** with over **3 years of industry experience**. I specialize in building **scalable, high-quality web applications** using the **MERN/MEVN stack**. I have a strong foundation in **data structures and algorithms**, along with comprehensive knowledge of **computer system fundamentals** like **Operating Systems**, **Computer Networks**, and **Database Management Systems**.
 
 ---
 
-- 💻 **Full-Stack Developer** specializing in **MERN/MEVN** stack with a passion for creating impactful products.
-- 🧠 Solid foundation in **Operating Systems, Computer Networks, Architecture**, and **Database Management Systems**.
-- 🚀 Strong grasp of **OOP Concepts** and **Design Principles/Patterns**.
-- 👨‍💼 **SDE-1 at Jio Fynd** | Previously at **WinZO** | **3+ YOE**.
-- 🌟 Received **Fynd Stars Award** for delivering high-quality, end-to-end products.
-- 🌱 Always exploring new technologies to build scalable solutions that reach millions.
+## 💼 **About Me**  
+
+- 🛠️ **Current Focus:** Improving my expertise in **Software Design and Architecture**.  
+- 🌟 **Passion:** Exploring new technologies to craft innovative solutions that make an impact.  
+- 👥 **Collaborator:** I enjoy working in teams that value creativity and efficiency.  
 
 ---
 
-## 📫 Connect with Me:
-- **Gmail:** [siddharthgusain.workmail@gmail.com](mailto:siddharthgusain.workmail@gmail.com)
-- **LinkedIn:** [linkedin.com/in/siddharth-gusain](https://www.linkedin.com/in/siddharth-gusain/)
+## 🛠️ **Skills & Tools**
+
+### **Languages**  
+- **Proficient:** JavaScript, TypeScript  
+- **Familiar:** C++  
+
+### **Frontend Development**  
+- **Frameworks & Libraries:** React.js, Redux, Next.js, Vue.js  
+- **Core Technologies:** HTML, CSS  
+
+### **Backend Development**  
+- Node.js, Express.js, Kafka  
+
+### **Databases**  
+- MySQL, PostgreSQL, MongoDB, Redis  
+
+### **DevOps & Tools**  
+- Git, GitHub, GitLab  
+- Docker, Kubernetes  
+- AWS  
+
+### **Operating Systems**  
+- Windows, Ubuntu, macOS  
 
 ---
 
-### ⚙️ Languages and Tools:
+## 📈 **GitHub Stats**
 
-![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=radical)  
 
 ---
 
-### 📊 GitHub Stats:
+## 📫 **Let's Connect!**  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/<your-linkedin-username>)  
+- **Portfolio:** [Your Portfolio](#) *(Add link if available)*  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthgusain&exclude_repo=Smart-city&layout=compact)
+---
+
+**“Building solutions, one line of code at a time.”**
