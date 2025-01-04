@@ -2,7 +2,8 @@
 
 ### Welcome to My GitHub! 🚀  
 
-I'm Siddharth, a **Software Engineer** with over **3 years of industry experience**. I specialize in building **scalable, high-quality web applications** using the **MERN/MEVN stack**. I have a strong foundation in **data structures and algorithms**, along with comprehensive knowledge of **computer system fundamentals** like **Operating Systems**, **Computer Networks**, and **Database Management Systems**.
+Siddharth is a dedicated and detail-oriented software engineer with over 3 years of experience, specializing in **building high-quality, scalable backend services.**
+He has worked across various domains, including backend, full-stack, frontend engineering. 
 
 ---
 
