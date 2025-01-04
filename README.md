@@ -19,7 +19,7 @@ He has worked across various domains, including backend, full-stack, frontend en
 
 ### **Languages**  
 - **Proficient:** JavaScript, TypeScript  
-- **Familiar:** C++  
+- **Familiar:** C++ , Java
 
 ### **Frontend Development**  
 - HTML, CSS, React.js, Webpack, Redux, Vue.js, Next.js  
