@@ -18,17 +18,20 @@ He has worked across various domains, including backend, full-stack, frontend en
 ## 🛠️ **Skills & Tools**
 
 ### **Languages**  
-- **Proficient:** JavaScript, TypeScript  
-- **Familiar:** Java , C++
+- **Proficient:** Java, JavaScript, TypeScript  
+- **Familiar:** C++, Python
 
 ### **Frontend Development**  
 - HTML, CSS, React.js, Webpack, Redux, Vue.js, Next.js  
 
 ### **Backend Development**  
-- Node.js, Express.js, Bull.js, Kafka, REST API  
+- Spring Boot, Node.js, Express.js, Bull.js, Kafka, REST API  
 
 ### **Databases**  
-- MongoDB, Redis, PostgreSQL  
+- MongoDB, Redis, PostgreSQL
+
+### **Cloud**  
+- GCP , AWS
 
 ### **Tools & Monitoring**  
 - Kubernetes, Docker, Git, GitHub  
