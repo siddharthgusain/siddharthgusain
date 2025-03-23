@@ -21,11 +21,11 @@ He has worked across various domains, including backend, full-stack, frontend en
 - **Proficient:** Java, JavaScript, TypeScript  
 - **Familiar:** C++, Python
 
-### **Frontend Development**  
-- HTML, CSS, React.js, Webpack, Redux, Vue.js, Next.js  
-
 ### **Backend Development**  
 - Spring Boot, Node.js, Express.js, Bull.js, Kafka, REST API  
+
+### **Frontend Development**  
+- HTML, CSS, React.js, Webpack, Redux, Vue.js, Next.js  
 
 ### **Databases**  
 - MongoDB, Redis, PostgreSQL
